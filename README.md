@@ -6,3 +6,5 @@ Se reciclo el login y el código php del anterior ejercicio, ahora al ingresar c
 Ejemplo: 
 ususario: elvagomez@umsa.bo
 contraseña: 123456
+
+La base de datos ya se subió en la pregunta dos
